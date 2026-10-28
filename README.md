@@ -2,6 +2,8 @@
 
 O iSee é um projeto de análise preditiva de criativos de vídeo antes da publicação, desenvolvido por **Leunam Sousa** para a **Galaxies**, no contexto da **Inteli Academy**. O produto é uma aplicação local em Python: função, CLI e servidor MCP por stdio. Não oferece API web nem interface web. A persona da empresa pode consumir ferramentas MCP; a persona e a integração com a plataforma interna não fazem parte deste repositório.
 
+[Currículo de Leunam Sousa](https://is.gd/sBFvr1) (Google Drive, somente leitura).
+
 ## Começar
 
 Requer Python 3.11, `uv` e dependências de sistema para mídia. Na raiz:
